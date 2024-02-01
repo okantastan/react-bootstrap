@@ -11,20 +11,13 @@ function Bootstrap(){
             <Row>
                 <Col>
                     <div>Col 1</div>
-                    <Button as="a" variant="primary">
-                        Button as link
-                    </Button>
                 </Col>
                 <Col>
                     <div>Col 2</div>
-                    <Button as="a" variant="warning">
-                        Button as link
-                    </Button>
                 </Col>
             </Row>
         </Container>
     )
-
 }
 
 export default Bootstrap;
